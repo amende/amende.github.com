@@ -41,17 +41,6 @@ a:hover
 
 }
 
-.strong
-{
-	font-weight: bold;
-}
-
-.date_location
-{
-	font-style: italic;
-	color: grey;
-}
-
 #myphoto
 {
 	width: 100%;
@@ -69,13 +58,27 @@ a:hover
 	padding-bottom: 10px;
 	padding-left: 10px;
 	margin-left: 10px;
+	margin-right: 20px;
+
 }
 
-#maincontent
+#bio
 {
-	background-color: white;
-	height: 450px;
-	overflow: auto;
-	padding-left: 20px;
-	padding-right: 20px;
+	text-indent: 10px;
+}
+
+#resume
+{
+	background: white;
+	width: 800px;
+	border: solid 2px gray;
+	margin-left: 40px;
+	padding: 10px;
+	padding-top: 1px;
+	list-style-type: square;
+}
+
+a.cclink
+{
+	color: gray;
 }
