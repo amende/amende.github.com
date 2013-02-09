@@ -1,5 +1,3 @@
-
-
 body
 {
 	background-color: #CCFFFF;
@@ -74,8 +72,8 @@ a:hover
 	border: solid 2px gray;
 	margin-left: 40px;
 	padding: 10px;
-	padding-top: 1px;
-	list-style-type: square;
+	padding-top: 0px;
+	overflow: auto;
 }
 
 a.cclink
