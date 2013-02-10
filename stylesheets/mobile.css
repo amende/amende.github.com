@@ -42,9 +42,8 @@ a:hover
 
 #myphoto
 {
-	width: 25%;
-	height: 25%;
-	text-align: left;
+	width: 200px;
+	height: 200px;
 	margin-left: 10px;
 	margin-bottom: 10px;
 }
