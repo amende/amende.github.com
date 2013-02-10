@@ -54,6 +54,10 @@ div img {
 	padding: 3px;
 }
 
+#bio p {
+	margin-left: 10px;
+}
+
 #resume {
 	background: white;
 	width: 800px;
