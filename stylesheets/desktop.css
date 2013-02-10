@@ -1,12 +1,10 @@
-body
-{
+body {
 	background-color: #CCFFFF;
 	font-family: "Helvetica Neue", sans-serif;
 	margin-left: 10px;
 }
 
-h1
-{
+h1 {
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -16,37 +14,31 @@ h1
 	color: black; 
 }
 
-h3
-{
+h3 {
 	text-decoration: underline;
 }
 
-a:link
-{
+a:link {
 	color: white;
 	text-decoration: underline;
 }
 
-a:visited 
-{
+a:visited {
 	color: white;
 	text-decoration: underline;
 }
 
-a:hover
-{
+a:hover {
 	font-size: 16px;
 
 }
 
-div img
-{
+div img {
 	margin-left: 10px;
 	margin-bottom: 10px;
 }
 
-#navigation
-{
+#navigation {
 	background-color: gray;
 	font-size: 14px;
 	color: white;
@@ -55,16 +47,13 @@ div img
 	padding-left: 10px;
 	margin-left: 10px;
 	margin-right: 20px;
-
 }
 
-#bio
-{
+#bio {
 	text-indent: 10px;
 }
 
-#resume
-{
+#resume {
 	background: white;
 	width: 800px;
 	border: solid 2px gray;
@@ -74,7 +63,6 @@ div img
 	overflow: auto;
 }
 
-a.cclink
-{
+a.cclink {
 	color: gray;
 }
