@@ -46,6 +46,7 @@ div img
 	max-height: 75%;
 	margin-left: 10px;
 	margin-bottom: 10px;
+	text-align: center;
 }
 
 #navigation
@@ -69,7 +70,7 @@ div img
 #resume
 {
 	background: white;
-	width: 800px;
+	width: 350px;
 	border: solid 2px gray;
 	margin-left: 40px;
 	padding: 10px;
