@@ -50,6 +50,8 @@ div img {
 
 #bio {
 	text-indent: 10px;
+	width: 200px;
+	overflow: auto;
 }
 
 #resume {
