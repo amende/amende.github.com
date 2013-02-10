@@ -50,6 +50,7 @@ div img {
 
 #bio {
 	text-indent: 10px;
+	padding: 3px;
 	overflow: auto;
 }
 
